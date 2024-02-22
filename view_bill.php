@@ -44,7 +44,7 @@ if($cus->num_rows)
             <strong>D.S.D. Restaurant, Inc.</strong><br>
             S.R.K College<br>
             Firozabad<br>
-            Phone: (827) 935-0461
+            Phone: 6397367278
           </address>
         </div>
         <!-- /.col -->
